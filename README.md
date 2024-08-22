@@ -6,7 +6,7 @@ Smart contract criado com a geração do NFT baseado no ERC-1155 -> https://ethe
 
 NFT criado -> https://opensea.io/assets/ethereum/0xf09b485ff9eb88e0fb476fea91aa00d70ffcea75/1
 
-Etapa 1 ![Etapa 1](https://github.com/FredLaffitte/dio-lab-desafio-criando-um-NFT-na-pratica/images/Step1.jpg)
+Etapa 1 ![Etapa 1](https://github.com/FredLaffitte/dio-lab-desafio-criando-um-NFT-na-pratica/blob/main/images/Step1.jpg)
 
 
 
